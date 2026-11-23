@@ -8,9 +8,9 @@ the `season` and `weathersit` columns, respectively, in `day.csv` or
 
 The Fact agency will investigate bike-sharing usage patterns in order to understanding and predicting bike-sharing demand
 
-#Working title:
+# Working title:
 Urban Mobility Intelligence: Understanding and Predicting Bike-Sharing Demand
 
-#Business problem:
+# Business problem:
 
 A bike-sharing operator needs to understand when, where, and under what circumstances people use its bicycles. It wants to anticipate demand, optimise bicycle availability, identify unusual changes in mobility patterns, and improve operational efficiency.
