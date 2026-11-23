@@ -25,6 +25,7 @@ Bike-sharing operators face several operational challenges:
 * Unexpected events can significantly affect normal mobility patterns.
 * Insufficient demand forecasting can lead to inefficient resource allocation.
 * Understanding customer behaviour is essential for improving service availability and planning future operations.
+
 The project addresses these challenges by analysing historical mobility patterns, identifying demand drivers, predicting future rental volumes, and detecting unusual changes in demand.nticipate demand, optimise bicycle availability, identify unusual changes in mobility patterns, and improve operational efficiency.
 
 # Questions:
@@ -34,3 +35,36 @@ The project addresses these challenges by analysing historical mobility patterns
 - Are there specific hours when demand suddenly increases?
 - Does bad weather affect commuting and recreational cycling differently?
 
+# Expected Deliverables
+
+The project is expected to produce:
+* A structured MySQL database.
+* Data ingestion and transformation scripts.
+* Documented SQL queries and analytical procedures.
+* Exploratory data analysis notebooks.
+* Statistical analysis of mobility and environmental factors.
+* Predictive demand forecasting models.
+* Anomaly detection implementation.
+* Interactive analytical dashboard.
+* Final report with findings and business recommendations.
+
+# Business Value
+The proposed analytical solution aims to demonstrate how historical mobility data can support:
+* Better understanding of urban transportation behaviour.
+* Improved demand forecasting.
+* More informed operational planning.
+* Identification of unusual mobility patterns.
+* Better understanding of environmental influences on transportation.
+* Evidence-based urban mobility planning.
+
+The project is intended as an analytical prototype rather than a production-ready bike-sharing management system.
+
+# Project Limitations
+
+Several limitations will be considered when interpreting the results:
+* The primary dataset covers only 2011–2012.
+* Rental records are aggregated hourly or daily.
+* Station-level availability information is not included in the primary dataset.
+* Historical external datasets may have different levels of temporal and geographic granularity.
+* Correlations between external factors and rental demand do not necessarily establish causation.
+* Predictive models trained on historical data may not generalise to present-day mobility patterns.
