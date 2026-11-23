@@ -14,3 +14,10 @@ Urban Mobility Intelligence: Understanding and Predicting Bike-Sharing Demand
 # Business problem:
 
 A bike-sharing operator needs to understand when, where, and under what circumstances people use its bicycles. It wants to anticipate demand, optimise bicycle availability, identify unusual changes in mobility patterns, and improve operational efficiency.
+
+# Questions:
+- Are there identifiable morning and evening commuting peaks?
+- Do people use bikes differently on weekdays and weekends?
+- Does the behaviour change between seasons?
+- Are there specific hours when demand suddenly increases?
+- Does bad weather affect commuting and recreational cycling differently?
