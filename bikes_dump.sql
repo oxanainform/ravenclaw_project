@@ -123,7 +123,7 @@ CREATE TABLE `season` (
 
 LOCK TABLES `season` WRITE;
 /*!40000 ALTER TABLE `season` DISABLE KEYS */;
-INSERT INTO `season` VALUES (1,'springer'),(2,'summer'),(3,'fall'),(4,'winter');
+INSERT INTO `season` VALUES (1,'spring'),(2,'summer'),(3,'fall'),(4,'winter');
 /*!40000 ALTER TABLE `season` ENABLE KEYS */;
 UNLOCK TABLES;
 
@@ -160,4 +160,4 @@ UNLOCK TABLES;
 /*!40101 SET COLLATION_CONNECTION=@OLD_COLLATION_CONNECTION */;
 /*!40111 SET SQL_NOTES=@OLD_SQL_NOTES */;
 
--- Dump completed on 2026-11-24 18:44:15
+-- Dump completed on 2026-11-24 20:41:34
